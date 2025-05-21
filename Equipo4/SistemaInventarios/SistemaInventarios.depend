@@ -488,6 +488,7 @@
 1747632667 source:c:\users\usuario\documents\progra\programación 1\proyectop12k25\equipo4\sistemainventarios\src\producto.cpp
 	"Producto.h"
 
+<<<<<<< HEAD
 1747414347 source:c:\users\macoh\onedrive\documents\programacion\progra1\proyectop12k25\equipo4\sistemainventarios\src\facturacion.cpp
 	"Facturacion.h"
 
@@ -570,6 +571,9 @@
 	<vector>
 
 1747793257 source:c:\users\macoh\onedrive\documents\programacion\progra1\proyectop12k25\equipo4\sistemainventarios\src\inventario.cpp
+=======
+1747644644 source:c:\users\usuario\documents\progra\programación 1\proyectop12k25\equipo4\sistemainventarios\src\inventario.cpp
+>>>>>>> origin/Grupo4
 	"Inventario.h"
 	<iostream>
 	<fstream>
